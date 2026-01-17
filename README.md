@@ -1,6 +1,33 @@
-# 💫 About Me:
-I’m currently working on<br>Developing and maintaining data analysis, reporting, and visualization solutions using Power BI and Excel to support business decision-making and performance tracking.<br>🤝 I’m looking to collaborate on<br>Data-driven initiatives involving business reporting, dashboard development, and analytics projects that deliver actionable insights and measurable impact.<br>🆘 I’m looking for help with<br>Enhancing expertise in advanced SQL, complex data modeling, and enterprise-level analytics best practices.<br>📘 I’m currently learning<br>Advanced SQL for data extraction and optimization<br>Power BI DAX and performance optimization techniques<br>Data storytelling aligned with business objectives<br>💬 Ask me about<br>Power BI dashboard design and KPI reporting<br>Advanced Excel for business analysis<br>Data visualization best practices<br>Career transition into Data Analytics<br>🎯 Fun fact<br>I am continuously upskilling to bridge the gap between raw data and strategic business insights.
+💫 About Me
 
+I am a data analytics professional focused on transforming raw data into meaningful insights that support informed business decisions. I work extensively with Power BI and Advanced Excel to develop accurate reports, interactive dashboards, and performance tracking solutions.
+
+🔧 What I’m Currently Working On
+- Designing and maintaining data analysis, reporting, and visualization solutions using **Power BI** and **Excel**
+- Building KPI-driven dashboards to support business performance monitoring and decision-making
+
+🤝 Open to Collaboration On
+- Data-driven initiatives involving **business reporting**, **dashboard development**, and **analytics projects**
+- Projects that deliver actionable insights and measurable business impact
+
+🆘 Looking for Support With
+- Advanced **SQL** querying and optimization
+- Complex **data modeling** techniques
+- Enterprise-level analytics and reporting best practices
+
+📘 Currently Learning
+- Advanced SQL for efficient data extraction and performance optimization
+- Power BI **DAX** and report performance tuning
+- Data storytelling aligned with business and stakeholder objectives
+
+💬 Ask Me About
+- Power BI dashboard design and KPI reporting
+- Advanced Excel for business and MIS analysis
+- Data visualization best practices
+- Career transition into Data Analytics
+
+🎯 Fun Fact
+I am continuously upskilling to bridge the gap between raw data and strategic business insights.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.afran11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-afran-630364325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedafran334@gmail.com) 
